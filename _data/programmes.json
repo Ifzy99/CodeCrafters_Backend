@@ -1,0 +1,23 @@
+[
+    {
+		"_id": "5d713995b721c3bb38c1f5d0",
+		"name": "Basic Degree Program",
+		"description": "Basic Degree Program is a full stack  programme for high school graduates who are looking to purse a career in any of our tech and non-tech programmes",
+		"email": "enroll@basicdegree.com",
+		"careers": ["Web Development", "UI/UX","Cybersecurity", "Data Science", "Digital Marketing"]
+	},
+    {
+		"_id": "5d725a4a7b292f5f8ceff789",
+		"name": "Masters Degree Program",
+		"description": "Do you want to take your tech career to the next level? Masters Degree Program will equip you with advanced and in-depth skills and knowledge to stand out amongst the multitude",
+		"email": "enroll@mastersdegree.com",
+		"careers": ["Web Development", "UI/UX","Cybersecurity", "Data Science"]
+	},
+    {
+		"_id": "5d713a66ec8f2b88b8f830b8",
+		"name": "Professional Degree Program",
+		"description": "Do you want to take your tech career to the next level? Masters Degree Program will equip you with advanced and in-depth skills and knowledge to stand out amongst the multitude",
+		"email": "enroll@professionaldegree.com",
+		"careers": ["Web Development", "UI/UX","Cybersecurity", "Data Science"]
+	}
+]

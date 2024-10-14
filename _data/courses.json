@@ -1,0 +1,122 @@
+[
+	{
+		"_id": "5d725c84c4ded7bcb480eaa0",
+		"title": "Full Stack Web Development",
+		"description": "In this comprehensive 1-year Full Stack Web Development course, you'll master both front-end and back-end technologies. Start with HTML, CSS, JavaScript, and Vue.js to create dynamic user interfaces, then advance to building robust back-end systems using Node.js, Express, and MongoDB. This course will equip you with the skills needed to develop complete web applications from start to finish.",
+		"duration": "1 Year",
+		"tuition": 2000000,
+		"scholarhipsAvailable": false,
+		"programme": "5d713a66ec8f2b88b8f830b8",
+		"user": "66c64fc9367fa82ace59ef47"
+	},
+	{
+		"_id": "5d725cb9c4ded7bcb480eaa1",
+		"title": "Web Development",
+		"description": "This course will teach you how to build high quality web applications with technologies like React, Node.js, PHP & Laravel.",
+		"duration": "1 Year",
+		"tuition": 2000000,
+		"scholarhipsAvailable": false,
+		"programme": "5d713995b721c3bb38c1f5d0",
+		"user": "66c64fc9367fa82ace59ef47"
+	},
+	{
+		"_id": "5d725cd2c4ded7bcb480eaa2",
+		"title": "Graphics Design",
+		"description": "Unleash your creativity with our Graphics Design course. Learn to master industry-standard tools like Adobe Photoshop, Illustrator, and InDesign to create stunning visual content. From branding to digital illustrations, this course will equip you with the skills to bring your artistic visions to life in both print and digital media.",
+		"duration": "6 Months",
+		"tuition": 50000,
+		"scholarhipsAvailable": false,
+		"programme": "5d713995b721c3bb38c1f5d0",
+		"user": "66c64fc9367fa82ace59ef47"
+	},
+	{ 
+		"_id": "5d725ce8c4ded7bcb480eaa3",
+		"title": "Front End Web Development",
+		"description": "In this Front End Web Development course, you'll gain all the essential skills needed to become a successful front-end developer. Master HTML, CSS, and JavaScript while learning to use tools like Git and VSCode. You'll also dive into modern front-end frameworks like Vue.js, preparing you to create dynamic, responsive web interfaces. This course  is designed to set you on the path to a rewarding career in web development.",
+		"duration": "6 Months",
+		"tuition": 100000,
+		"scholarhipsAvailable": true,
+		"programme": "5d725a4a7b292f5f8ceff789",
+		"user": "66c64fc9367fa82ace59ef47"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa4",
+		"title": "Cybersecurity",
+		"description": "In this Cybersecurity course, you'll dive deep into essential skills, including front-end development with HTML, CSS, and JavaScript, and master tools like Git and Webpack. Additionally, you'll learn C# and ASP.NET, paired with PostgreSQL, to fortify your knowledge in creating secure applications. Prepare for a robust career in cybersecurity.",
+		"duration": "1 Year",
+		"tuition": 200000,
+		"scholarhipsAvailable": false,
+		"programme": "5d713a66ec8f2b88b8f830b8",
+		"user": "66c64fc9367fa82ace59ef47"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa5",
+		"title": "UI/UX",
+		"description": "In this 6-month UI/UX course, you'll master the art of creating stunning interfaces that blend design and development for modern web and mobile experiences.",
+		"duration": "6 Months",
+		"tuition": 150000,
+		"scholarhipsAvailable": true,
+		"programme": "5d713a66ec8f2b88b8f830b8",
+		"user": "66c64fc9367fa82ace59ef47"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa6",
+		"title": "Backend Web Development",
+		"description": "Master the essentials of Backend Web Development in 6 months! Learn to build dynamic websites and applications using Node.js, Express, Python, and Django.",
+		"duration": "6 Months",
+		"tuition": 100000,
+		"scholarhipsAvailable": true,
+		"programme": "5d725a4a7b292f5f8ceff789",
+		"user": "66c64fc9367fa82ace59ef47"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa7",
+		"title": "Photoshop Masterclass",
+		"description": "Become a Photoshop pro with our intensive 6-month masterclass. Learn advanced techniques in photo editing, retouching, digital painting, and graphic design using Adobe Photoshop. Perfect for creatives looking to enhance their skills and produce professional-grade visual content.",
+		"duration": "6 Months",
+		"tuition": 100000,
+		"scholarhipsAvailable": true,
+		"programme": "5d725a4a7b292f5f8ceff789",
+		"user": "66c64fc9367fa82ace59ef47"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa8",
+		"title": "Data Science",
+		"description": "Master the essentials of Data Science in 6 months! This course dives deep into Python, machine learning, and big data tools, equipping you with the expertise to excel in one of today's most sought-after fields.",
+		"duration": "6 Months",
+		"tuition": 150000,
+		"scholarhipsAvailable": false,
+		"programme": "5d713a66ec8f2b88b8f830b8",
+		"user": "66c64fc9367fa82ace59ef47"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480eaa9",
+		"title": "Data Analysis",
+		"description": "Unlock the power of data with our 6-month Data Analysis course! Gain the skills to turn raw data into actionable insights using cutting-edge technologies and transform your career in the world of analytics.",
+		"duration": "6 Months",
+		"tuition": 100000,
+		"scholarhipsAvailable": false,
+		"programme": "5d725a4a7b292f5f8ceff789",
+		"user": "66c64fc9367fa82ace59ef47"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480ebb0",
+		"title": "Digital Marketing",
+		"description": "Master the art of online branding and strategy with our Digital Marketing course! In just 3 months, learn the essential tools and techniques to boost your career and drive business growth in the digital age.",
+		"duration": "3 Months",
+		"tuition": 50000,
+		"scholarhipsAvailable": false,
+		"programme": "5d713995b721c3bb38c1f5d0",
+		"user": "66c64fc9367fa82ace59ef47"
+	},
+	{
+		"_id": "5d725cfec4ded7bcb480ebb1",
+		"title": "IOS Development",
+		"description": "Get started building mobile applications for IOS using Swift and other tools",
+		"duration": "1 Year",
+		"tuition": 300000,
+		"scholarhipsAvailable": false,
+		"programme": "5d713a66ec8f2b88b8f830b8",
+		"user": "66c64fc9367fa82ace59ef47"
+	}
+]
